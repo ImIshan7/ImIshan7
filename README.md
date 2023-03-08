@@ -26,4 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imishan7&" alt="imishan7" /></p>
 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code&weight=500&size=35&pause=1000&color=FFFFFF&width=435&lines=Full+Stack+Developer;Entrepreneur"
+                                             alt="Typing SVG" /></a>
 
