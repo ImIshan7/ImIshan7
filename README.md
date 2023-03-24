@@ -1,9 +1,7 @@
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&weight=500&size=35&pause=1000&color=FFFFFF&width=435&lines=Full+Stack+Developer;Entrepreneur"
-                                             alt="Typing SVG" /></a>
-<h1 align="center">Hi 👋, I'm Ishan Dhananjaya</h1>
-<h3 align="center">Ungraduate Software Engineer</h3>
+ 
+<h1 align="center">Hi 🙌 I'm Ishan Dhananjaya</h1>
+<h3 align="center">Ungraduate Software Engineer 🙆‍♂️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imishan7&label=Profile%20views&color=0e75b6&style=flat" alt="imishan7" /> </p>
 
