@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=4930FF00&width=435&lines=Hi+i'm+Dushan+Malinda;"/>😊❤️😊
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=4930FF00&width=435&lines=Hello There,+i'm+Ishan;"/>
 
  
 <h1 align="center">Hi 🙌 I'm Ishan Dhananjaya</h1>
