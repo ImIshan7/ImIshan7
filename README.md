@@ -1,44 +1,9 @@
-
- 
-<h1 align="center">Hi 🙌 I'm Ishan Dhananjaya</h1>
-<h3 align="center">Ungraduate Software Engineer 🙆‍♂️</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imishan7&label=Profile%20views&color=0e75b6&style=flat" alt="imishan7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imishan7" alt="imishan7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@ishandananjay10" target="blank"><img src="https://img.shields.io/twitter/follow/@ishandananjay10?logo=twitter&style=for-the-badge" alt="@ishandananjay10" /></a> </p>
-
-- 📫 How to reach me **ishandanu999@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ishandananjay10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ishandananjay10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishan-dhananjana-615878226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishan-dhananjana-615878226/" height="30" width="40" /></a>
-<a href="https://instagram.com/im_i__shan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_i__shan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr errors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr errors" height="30" width="40" /></a>
-</p>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="42" alt="filezilla logo"  />
-</div>
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imishan7&show_icons=true&locale=en&layout=compact" alt="imishan7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imishan7&show_icons=true&locale=en" alt="imishan7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imishan7&" alt="imishan7" /></p>
-
- 
+<h1 align="center">Hi there! 👋 I'm Ishan Dhananjaya</h1> <h3 align="center">Aspiring Software Engineer 💻</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=imishan7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imishan7&margin-w=5&theme=dracula" alt="GitHub Trophies" /></a> </p> <p align="center"> <a href="https://twitter.com/@ishandananjay10" target="blank"> <img src="https://img.shields.io/twitter/follow/@ishandananjay10?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> </a> </p>
+📫 How to Reach Me
+Email: ishandanu999@gmail.com
+🌐 Connect with Me
+<p align="center"> <a href="https://twitter.com/@ishandananjay10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ishandananjay10" height="30" width="40" /></a> <a href="https://linkedin.com/in/ishan-dhananjana-615878226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://instagram.com/im_i__shan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a> <a href="https://www.youtube.com/c/mr errors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> </p>
+🛠️ Languages and Tools
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="42" alt="FileZilla" /> </p>
+📊 GitHub Stats
+<div align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imishan7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /> <br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=imishan7&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /> <br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imishan7&theme=tokyonight" alt="GitHub Streak" /> </div>
